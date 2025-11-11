@@ -1,0 +1,12 @@
+{
+  "concurrency": 8,
+  "default_youtube_language": "en",
+  "timeout_seconds": 20,
+  "max_retries": 3,
+  "proxy": {
+    "http": null,
+    "https": null
+  },
+  "artifacts_dir": "artifacts",
+  "log_level": "INFO"
+}
