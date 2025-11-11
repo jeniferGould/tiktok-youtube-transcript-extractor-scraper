@@ -1,0 +1,44 @@
+[
+  {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=aAkMkVFwAoo",
+    "transcript": "WEBVTT\n\n00:00:00.260 --> 00:00:01.500\nWatch out for the snow storm,\n00:00:01.501 --> 00:00:02.621\npresident. Oh,\n00:00:02.622 --> 00:00:04.061\nhe said watch out for...\n",
+    "transcript_only_text": "Watch out for the snow storm, president. Oh, he said watch out for...",
+    "videoId": "aAkMkVFwAoo",
+    "title": "Mariah Carey - All I Want for Christmas Is You (Make My Wish Come True Edition)",
+    "lengthSeconds": "241",
+    "keywords": [
+      "christmas songs",
+      "mariah carey",
+      "holiday"
+    ],
+    "author": "MariahCareyVEVO",
+    "viewCount": "739849592",
+    "likeCount": "6483757",
+    "publishDate": "2019-12-19T21:00:11-08:00",
+    "thumbnail": [
+      "https://i.ytimg.com/vi/aAkMkVFwAoo/hqdefault.jpg"
+    ]
+  },
+  {
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@scout2015/video/6718335390845095173",
+    "transcript": null,
+    "transcript_only_text": null,
+    "videoId": "6718335390845095173",
+    "title": "An example TikTok video description",
+    "lengthSeconds": "15",
+    "keywords": [
+      "dogs",
+      "funny",
+      "pets"
+    ],
+    "author": "scout2015",
+    "viewCount": "1234567",
+    "likeCount": "98765",
+    "publishDate": "2020-01-01T00:00:00Z",
+    "thumbnail": [
+      "https://example.com/tiktok/cover.jpg"
+    ]
+  }
+]
